@@ -12,5 +12,5 @@
 ### [Hard Skill](https://github.com/BrunoNishimura/Gama-Experience-Hacker)
 
 ### Grupo
-- [Acredita$]()
-- [EnsinaCast]()
+- [Acredita$](https://github.com/GrowthOn/acreditas)
+- [EnsinaCast](https://github.com/EnsinaCast/Educacional)
